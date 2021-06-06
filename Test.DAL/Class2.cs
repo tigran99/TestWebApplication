@@ -6,5 +6,6 @@ namespace Test.DAL
 {
     class Class2
     {
+        public int MyProperty { get; set; }
     }
 }
